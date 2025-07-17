@@ -26,7 +26,7 @@ I'm a passionate full-stack developer focused on web applications, but happy to 
 
 - [**Pasmaster**](https://github.com/TLTimeplex/PasMaster) ([**Server**](https://github.com/TLTimeplex/PasMasterServer)) – One of my larger ongoing projects
 - [**StoreIQ**](https://github.com/TLTimeplex/storeIQ) - My Bachelor thesis project
-- [**Voice-of-Time**](https://github.com/TST-Systems/Voice-of-Time) – Developed for my organization
+- [**Voice-of-Time**](https://github.com/TST-Systems/Voice-of-Time) – Developed as University project
 - [**Fursuit Registration Tool**](https://github.com/eurofurence/fursuit-reg-tool) – Contributed for Eurofurence, volunteer work
 
 ---

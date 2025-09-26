@@ -36,11 +36,4 @@ I'm a passionate full-stack developer focused on web applications, but happy to 
 Check out my (work in progress) portfolio: [me.timeliners.org](https://me.timeliners.org)
 
 ---
-
-## 💡 Fun Fact
-
-Always up for a coding challenge or discovering new coding environments! ^^
-
----
-
 <!-- Social & Contact can go here if you want to add more later -->
